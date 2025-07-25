@@ -1,0 +1,106 @@
+{
+  "banner": {
+    "header": "Generirajte QR Kodove u Par Sekundi",
+    "subheader": "Stvorite prilagođene QR kodove za URL-ove, tekst, e-poštu, WiFi mreže i više, s našim modernim, brzim generatorom."
+  },
+  "language": {
+    "toggle": {
+      "en": "Engleski",
+      "hr": "Hrvatski"
+    }
+  },
+  "tabs": {
+    "taboptions": {
+      "url": "URL",
+      "text": "Tekst",
+      "email": "Email",
+      "crypto": "Kripto",
+      "more": "Više",
+      "wifi": "WiFi",
+      "sms": "SMS"
+    }
+  },
+  "userinput": {
+    "url": {
+      "websiteurl": "URL web stranice",
+      "exampleurl": "https://www.primjer.hr",
+      "helpertext": "Unesite cijeli URL uključujući https://"
+    },
+    "text": {
+      "textcontent": "Tekstualni sadržaj",
+      "exampletext": "Unesite Vaš tekst ovdje",
+      "helpertext": "Bilo kakav tekst koji želite enkodirati u QR kod"
+    },
+    "email": {
+      "emailaddress": "Email Adresa",
+      "exampleemail": "primjer@email.hr",
+      "subject": "Predmet (Neobavezno)",
+      "examplesubject": "Predmet email-a",
+      "message": "Poruka (Neobavezno)",
+      "examplemessage": "Sadržaj email-a"
+    },
+    "crypto": {
+      "amount": "Količina",
+      "exampleamount": "0.001",
+      "address": "Adresa",
+      "exampleaddress": "0xe1d9Aa1FBC62c15859EB966f76A04a6Ca05caCB3",
+      "message": "Poruka (Neobavezno)",
+      "examplemessage": "Transakcijska poruka"
+    },
+    "wifi": {
+      "networkname": "Naziv Mreže (SSID)",
+      "networkplaceholder": "Naziv Vaše WiFi mreže",
+      "password": "Lozinka",
+      "passwordplaceholder": "WiFi lozinka",
+      "encryption": "Enkripcija",
+      "wpa": "WPA/WPA2",
+      "wep": "WEP",
+      "hidden": "Skrivena Mreža"
+    },
+    "sms": {
+      "phonenumber": "Broj mobitela",
+      "examplephone": "+385991234567",
+      "message": "Poruka",
+      "examplemessage": "Vaša SMS poruka",
+      "messagehelper": "Poruka koja će se automatski popuniti prilikom skeniranja"
+    }
+  },
+  "qrpreview": {
+    "qrcode": "QR kod",
+    "download": "Preuzmi",
+    "image": "Slika",
+    "vector": "Vektor",
+    "document": "Dokument"
+  },
+  "options": {
+    "options": "Postavke",
+    "dotstyle": "Izgled Točkica",
+    "cornerstyle": "Izgled Kuteva",
+    "centerstyle": "Izgled Središta Kuteva",
+    "logo": "Logotip",
+    "dragndrop": "Povucite i ispustite ili kliknite za prijenos",
+    "logofiletypes": "PNG, JPG ili SVG (maks. 2MB)",
+    "uploadlogo": "Prenesite Logotip",
+    "recommendedlogosize": "Preporučene dimenzije: 100×100px (piksela), prozirna pozadina",
+    "validlogotype": "Učitajte PNG, JPG ili SVG datoteku",
+    "filetoobig": "Veličina datoteke mora biti manja od 2 MB",
+    "removelogo": "Ukloni logotip",
+    "logowillbecentered": "Logotip će biti centriran u Vašem QR kodu",
+    "uploadedlogo": "Preneseni logotip",
+    "backgroundcolor": "Boja Pozadine"
+  },
+  "colorpicker": {
+    "invalidformat": "Pogrešan format za boju (koristite #ffffff)"
+  },
+  "arialabels": {
+    "gotohomepage": "idi na početnu stranicu",
+    "dotstylecolor": "odaberi boju točkica",
+    "cornerstylecolor": "odaberi boju kuteva",
+    "centerstylecolor": "odaberi boju središta kuteva",
+    "switchtodark": "promijeni na tamnu temu",
+    "switchtolight": "promijeni na svijetlu temu",
+    "changebgcolor": "promijeni boju pozadine",
+    "visitgithub": "posjetite qrisp projekt na github-u",
+    "ghbutton": "github gumb"
+  }
+}
